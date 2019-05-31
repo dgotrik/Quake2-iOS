@@ -6,6 +6,8 @@
 build/
 DerivedData/
 
+lib/*
+lib/Debug*
 ## Various settings
 *.pbxuser
 !default.pbxuser

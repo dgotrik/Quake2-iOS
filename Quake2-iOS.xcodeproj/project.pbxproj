@@ -7,6 +7,48 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		720E0ABB22990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E0ABC22990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E0ABD22990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E0ABE22990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E0ABF22990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E0AC022990FFB00EB30E6 /* pak0.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E123D22990C0600EB30E6 /* pak0.pak */; };
+		720E527F2299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52802299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52812299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52822299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52832299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52842299100F00EB30E6 /* q2pro.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4622990C4400EB30E6 /* q2pro.menu */; };
+		720E52852299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E52862299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E52872299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E52882299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E52892299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E528A2299101000EB30E6 /* pak1.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E1E4722990C5200EB30E6 /* pak1.pak */; };
+		720E5D15229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D16229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D17229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D18229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D19229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D1A229910D700EB30E6 /* pak2.pak in Resources */ = {isa = PBXBuildFile; fileRef = 720E776B22990CD900EB30E6 /* pak2.pak */; };
+		720E5D1B229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D1C229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D1D229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D1E229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D1F229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D20229910D700EB30E6 /* q2config.cfg in Resources */ = {isa = PBXBuildFile; fileRef = 720E776C22990CE900EB30E6 /* q2config.cfg */; };
+		720E5D21229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E5D22229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E5D23229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E5D24229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E5D25229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E5D26229910D700EB30E6 /* common.menu in Resources */ = {isa = PBXBuildFile; fileRef = 720E776D22990CF600EB30E6 /* common.menu */; };
+		720E6A052299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
+		720E6A062299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
+		720E6A072299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
+		720E6A082299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
+		720E6A092299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
+		720E6A0A2299119000EB30E6 /* pak3.pkz in Resources */ = {isa = PBXBuildFile; fileRef = 720EFE2122990FD500EB30E6 /* pak3.pkz */; };
 		A132345A2209FFE200884138 /* Quake2mp1LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A13234582209FFD000884138 /* Quake2mp1LaunchScreen.storyboard */; };
 		A132345B2209FFE500884138 /* Quake2mp2LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A13234592209FFD000884138 /* Quake2mp2LaunchScreen.storyboard */; };
 		A142F96922138D03006A2A17 /* SavedGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A142F96822138D02006A2A17 /* SavedGameViewController.swift */; };
@@ -284,7 +326,6 @@
 		A16571BB220B9FD900FE9FC9 /* OptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16571B8220B9FD900FE9FC9 /* OptionsViewController.swift */; };
 		A1B80A4721F96DAA00560711 /* Quake2LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1B80A0221F438C200560711 /* Quake2LaunchScreen.storyboard */; };
 		A1B80A4821F96DAA00560711 /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
-		A1B80A4B21F96DAA00560711 /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1B80AD121F96DAA00560711 /* Metal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A13B68A421D54D3B00AA2472 /* Metal.framework */; };
 		A1B80AD221F96DAA00560711 /* libSDL2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A131F34C21D530B500B4BB5D /* libSDL2.a */; };
 		A1B80AD321F96DAA00560711 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A131F33921D52FA700B4BB5D /* AVFoundation.framework */; };
@@ -300,7 +341,6 @@
 		A1B80AF421F98E6500560711 /* Quake2-iOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80AF121F98E6400560711 /* Quake2-iOS.xcassets */; };
 		A1B80B0521FA5BF200560711 /* Quake2-tvOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80B0421FA5BF200560711 /* Quake2-tvOS.xcassets */; };
 		A1B80B0C21FA5C6300560711 /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
-		A1B80B0D21FA5C6500560711 /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1B80B0E21FA5C9400560711 /* libSDL2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A131F34E21D530B500B4BB5D /* libSDL2.a */; };
 		A1B80B1921FA5D0500560711 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B0F21FA5D0500560711 /* CoreAudio.framework */; };
 		A1B80B1A21FA5D0500560711 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B1021FA5D0500560711 /* QuartzCore.framework */; };
@@ -320,7 +360,6 @@
 		A1C1206722026DED00EAD9CB /* DifficultyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1206622026DED00EAD9CB /* DifficultyViewController.swift */; };
 		A1C1206822026DED00EAD9CB /* DifficultyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1206622026DED00EAD9CB /* DifficultyViewController.swift */; };
 		A1C1233E2203B37600EAD9CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15BF74A21FCF7E3005F4B74 /* Main.storyboard */; };
-		A1C123402203B37600EAD9CB /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1C123412203B37600EAD9CB /* dpquake.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1C1204E21FD178100EAD9CB /* dpquake.ttf */; };
 		A1C123422203B37600EAD9CB /* Quake2-iOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80AF121F98E6400560711 /* Quake2-iOS.xcassets */; };
 		A1C123442203B37600EAD9CB /* qal.c in Sources */ = {isa = PBXBuildFile; fileRef = A15BF5E921FCDD7A005F4B74 /* qal.c */; settings = {COMPILER_FLAGS = "-w"; }; };
@@ -477,10 +516,8 @@
 		A1C124152203B6D600EAD9CB /* rand.c in Sources */ = {isa = PBXBuildFile; fileRef = A15BF55F21FCDD7A005F4B74 /* rand.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C124162203B6D600EAD9CB /* shared.c in Sources */ = {isa = PBXBuildFile; fileRef = A15BF56121FCDD7A005F4B74 /* shared.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C124172203B76500EAD9CB /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
-		A1C124182203B76E00EAD9CB /* xatrix in Resources */ = {isa = PBXBuildFile; fileRef = A1C123392203B34F00EAD9CB /* xatrix */; };
 		A1C1241C2203FE2600EAD9CB /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
 		A1C1241E2203FE2600EAD9CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15BF74A21FCF7E3005F4B74 /* Main.storyboard */; };
-		A1C1241F2203FE2600EAD9CB /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1C124202203FE2600EAD9CB /* dpquake.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1C1204E21FD178100EAD9CB /* dpquake.ttf */; };
 		A1C124212203FE2600EAD9CB /* Quake2-iOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80AF121F98E6400560711 /* Quake2-iOS.xcassets */; };
 		A1C124252203FE2600EAD9CB /* qal.c in Sources */ = {isa = PBXBuildFile; fileRef = A15BF5E921FCDD7A005F4B74 /* qal.c */; settings = {COMPILER_FLAGS = "-w"; }; };
@@ -646,7 +683,6 @@
 		A1C124FA2203FF4900EAD9CB /* view.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C123382203B31D00EAD9CB /* view.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C124FB2203FF4900EAD9CB /* weapon.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C123352203B31D00EAD9CB /* weapon.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C124FC2203FF4E00EAD9CB /* savegame.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C122DD2203B31D00EAD9CB /* savegame.c */; settings = {COMPILER_FLAGS = "-w"; }; };
-		A1C124FD2203FF5E00EAD9CB /* rogue in Resources */ = {isa = PBXBuildFile; fileRef = A1C1233A2203B34F00EAD9CB /* rogue */; };
 		A1C124FE2204F3D200EAD9CB /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15BF75F21FD0819005F4B74 /* GameViewController.swift */; };
 		A1C124FF2204F3D700EAD9CB /* MainMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15BF75D21FD0604005F4B74 /* MainMenuViewController.swift */; };
 		A1C125002204F4C900EAD9CB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A15BF75721FD02A0005F4B74 /* AppDelegate.m */; };
@@ -751,12 +787,10 @@
 		A1C125972204FA3300EAD9CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B1721FA5D0500560711 /* Foundation.framework */; };
 		A1C125982204FA3300EAD9CB /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B1821FA5D0500560711 /* OpenGLES.framework */; };
 		A1C125992204FA3300EAD9CB /* libSDL2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A131F34E21D530B500B4BB5D /* libSDL2.a */; };
-		A1C1259B2204FA3300EAD9CB /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1C1259C2204FA3300EAD9CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C125042204F73000EAD9CB /* Main.storyboard */; };
 		A1C1259D2204FA3300EAD9CB /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
 		A1C1259E2204FA3300EAD9CB /* dpquake.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1C1204E21FD178100EAD9CB /* dpquake.ttf */; };
 		A1C1259F2204FA3300EAD9CB /* Quake2-tvOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80B0421FA5BF200560711 /* Quake2-tvOS.xcassets */; };
-		A1C125A52204FA5700EAD9CB /* xatrix in Resources */ = {isa = PBXBuildFile; fileRef = A1C123392203B34F00EAD9CB /* xatrix */; };
 		A1C125A62204FAB600EAD9CB /* g_ai.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C1224E2203B31D00EAD9CB /* g_ai.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C125A72204FAB600EAD9CB /* g_chase.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C122462203B31D00EAD9CB /* g_chase.c */; settings = {COMPILER_FLAGS = "-w"; }; };
 		A1C125A82204FAB600EAD9CB /* g_cmds.c in Sources */ = {isa = PBXBuildFile; fileRef = A1C122542203B31D00EAD9CB /* g_cmds.c */; settings = {COMPILER_FLAGS = "-w"; }; };
@@ -955,12 +989,10 @@
 		A1C1266C2204FE1400EAD9CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B1721FA5D0500560711 /* Foundation.framework */; };
 		A1C1266D2204FE1400EAD9CB /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1B80B1821FA5D0500560711 /* OpenGLES.framework */; };
 		A1C1266E2204FE1400EAD9CB /* libSDL2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A131F34E21D530B500B4BB5D /* libSDL2.a */; };
-		A1C126702204FE1400EAD9CB /* music in Resources */ = {isa = PBXBuildFile; fileRef = A13B694F21D574A000AA2472 /* music */; };
 		A1C126712204FE1400EAD9CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C125042204F73000EAD9CB /* Main.storyboard */; };
 		A1C126722204FE1400EAD9CB /* baseq2 in Resources */ = {isa = PBXBuildFile; fileRef = A13B695021D574A000AA2472 /* baseq2 */; };
 		A1C126732204FE1400EAD9CB /* dpquake.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1C1204E21FD178100EAD9CB /* dpquake.ttf */; };
 		A1C126752204FE1400EAD9CB /* Quake2-tvOS.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1B80B0421FA5BF200560711 /* Quake2-tvOS.xcassets */; };
-		A1C1267B2205031F00EAD9CB /* rogue in Resources */ = {isa = PBXBuildFile; fileRef = A1C1233A2203B34F00EAD9CB /* rogue */; };
 		A1C1267D220908DF00EAD9CB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1267C220908DF00EAD9CB /* Extensions.swift */; };
 		A1C1267E220908DF00EAD9CB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1267C220908DF00EAD9CB /* Extensions.swift */; };
 		A1C1267F220908DF00EAD9CB /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C1267C220908DF00EAD9CB /* Extensions.swift */; };
@@ -991,14 +1023,20 @@
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		28FD14FF0DC6FC520079059D /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		28FD15070DC6FC5B0079059D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		720E123D22990C0600EB30E6 /* pak0.pak */ = {isa = PBXFileReference; lastKnownFileType = file; path = pak0.pak; sourceTree = "<group>"; };
+		720E1E4622990C4400EB30E6 /* q2pro.menu */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = q2pro.menu; sourceTree = "<group>"; };
+		720E1E4722990C5200EB30E6 /* pak1.pak */ = {isa = PBXFileReference; lastKnownFileType = file; path = pak1.pak; sourceTree = "<group>"; };
+		720E776B22990CD900EB30E6 /* pak2.pak */ = {isa = PBXFileReference; lastKnownFileType = file; path = pak2.pak; sourceTree = "<group>"; };
+		720E776C22990CE900EB30E6 /* q2config.cfg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = q2config.cfg; sourceTree = "<group>"; };
+		720E776D22990CF600EB30E6 /* common.menu */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = common.menu; sourceTree = "<group>"; };
+		720EFE2122990FD500EB30E6 /* pak3.pkz */ = {isa = PBXFileReference; lastKnownFileType = file; path = pak3.pkz; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Quake2-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Quake2-Info.plist"; sourceTree = "<group>"; };
 		A131F33921D52FA700B4BB5D /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		A131F34321D530B500B4BB5D /* SDL.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SDL.xcodeproj; path = SDL/SDL.xcodeproj; sourceTree = "<group>"; };
 		A13234582209FFD000884138 /* Quake2mp1LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Quake2mp1LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A13234592209FFD000884138 /* Quake2mp2LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Quake2mp2LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A13B68A421D54D3B00AA2472 /* Metal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Metal.framework; path = System/Library/Frameworks/Metal.framework; sourceTree = SDKROOT; };
-		A13B694F21D574A000AA2472 /* music */ = {isa = PBXFileReference; lastKnownFileType = folder; name = music; path = ../../../Dropbox/Files/quake2/music; sourceTree = "<group>"; };
-		A13B695021D574A000AA2472 /* baseq2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = baseq2; path = ../../../Dropbox/Files/quake2/baseq2; sourceTree = "<group>"; };
+		A13B695021D574A000AA2472 /* baseq2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = baseq2; path = Quake2/baseq2; sourceTree = "<group>"; };
 		A142F96822138D02006A2A17 /* SavedGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedGameViewController.swift; sourceTree = "<group>"; };
 		A15BF4D721FCDD7A005F4B74 /* network.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = network.c; sourceTree = "<group>"; };
 		A15BF4D821FCDD7A005F4B74 /* signalhandler.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = signalhandler.c; sourceTree = "<group>"; };
@@ -1414,8 +1452,6 @@
 		A1C123362203B31D00EAD9CB /* client.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = client.c; sourceTree = "<group>"; };
 		A1C123372203B31D00EAD9CB /* hud.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = hud.c; sourceTree = "<group>"; };
 		A1C123382203B31D00EAD9CB /* view.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = view.c; sourceTree = "<group>"; };
-		A1C123392203B34F00EAD9CB /* xatrix */ = {isa = PBXFileReference; lastKnownFileType = folder; name = xatrix; path = ../../../Dropbox/Files/quake2/xatrix; sourceTree = "<group>"; };
-		A1C1233A2203B34F00EAD9CB /* rogue */ = {isa = PBXFileReference; lastKnownFileType = folder; name = rogue; path = ../../../Dropbox/Files/quake2/rogue; sourceTree = "<group>"; };
 		A1C123DD2203B37600EAD9CB /* Quake2mp1-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quake2mp1-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1C124C02203FE2600EAD9CB /* Quake2mp2-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quake2mp2-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1C125042204F73000EAD9CB /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
@@ -1561,9 +1597,7 @@
 			isa = PBXGroup;
 			children = (
 				A13B695021D574A000AA2472 /* baseq2 */,
-				A1C123392203B34F00EAD9CB /* xatrix */,
-				A1C1233A2203B34F00EAD9CB /* rogue */,
-				A13B694F21D574A000AA2472 /* music */,
+				720E73E7229904B600EB30E6 /* baseq2 */,
 				A15BF4D421FCDD7A005F4B74 /* Quake2 */,
 				A15BF74921FCF773005F4B74 /* Quake2-iOS */,
 				A1C125012204F5F900EAD9CB /* Quake2-tvOS */,
@@ -1600,6 +1634,21 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		720E73E7229904B600EB30E6 /* baseq2 */ = {
+			isa = PBXGroup;
+			children = (
+				720E776D22990CF600EB30E6 /* common.menu */,
+				720E123D22990C0600EB30E6 /* pak0.pak */,
+				720E1E4722990C5200EB30E6 /* pak1.pak */,
+				720E776B22990CD900EB30E6 /* pak2.pak */,
+				720EFE2122990FD500EB30E6 /* pak3.pkz */,
+				720E776C22990CE900EB30E6 /* q2config.cfg */,
+				720E1E4622990C4400EB30E6 /* q2pro.menu */,
+			);
+			name = baseq2;
+			path = Quake2/baseq2;
 			sourceTree = "<group>";
 		};
 		A131F34421D530B500B4BB5D /* Products */ = {
@@ -3106,7 +3155,7 @@
 				LastUpgradeCheck = 1020;
 				TargetAttributes = {
 					A1B80A4521F96DAA00560711 = {
-						DevelopmentTeam = 9UY8SFDNQ8;
+						DevelopmentTeam = 6XMY278932;
 						LastSwiftMigration = 1020;
 					};
 					A1B80AF821FA5BEE00560711 = {
@@ -3188,10 +3237,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				720E5D1B229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E527F2299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1B80A4721F96DAA00560711 /* Quake2LaunchScreen.storyboard in Resources */,
+				720E5D15229910D700EB30E6 /* pak2.pak in Resources */,
+				720E0ABB22990FFB00EB30E6 /* pak0.pak in Resources */,
 				A15BF74B21FCF7E3005F4B74 /* Main.storyboard in Resources */,
+				720E6A052299119000EB30E6 /* pak3.pkz in Resources */,
 				A1B80A4821F96DAA00560711 /* baseq2 in Resources */,
-				A1B80A4B21F96DAA00560711 /* music in Resources */,
+				720E52852299101000EB30E6 /* pak1.pak in Resources */,
+				720E5D21229910D700EB30E6 /* common.menu in Resources */,
 				A1C1205421FD178100EAD9CB /* dpquake.ttf in Resources */,
 				A1B80AF421F98E6500560711 /* Quake2-iOS.xcassets in Resources */,
 			);
@@ -3201,11 +3256,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B80B0D21FA5C6500560711 /* music in Resources */,
 				A1C125052204F73000EAD9CB /* Main.storyboard in Resources */,
+				720E0ABC22990FFB00EB30E6 /* pak0.pak in Resources */,
 				A1B80B0C21FA5C6300560711 /* baseq2 in Resources */,
+				720E5D22229910D700EB30E6 /* common.menu in Resources */,
+				720E52802299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1C1205521FD178100EAD9CB /* dpquake.ttf in Resources */,
+				720E5D1C229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E5D16229910D700EB30E6 /* pak2.pak in Resources */,
 				A1B80B0521FA5BF200560711 /* Quake2-tvOS.xcassets in Resources */,
+				720E6A062299119000EB30E6 /* pak3.pkz in Resources */,
+				720E52862299101000EB30E6 /* pak1.pak in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3213,11 +3274,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1C124182203B76E00EAD9CB /* xatrix in Resources */,
+				720E5D1D229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E52812299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1C124172203B76500EAD9CB /* baseq2 in Resources */,
+				720E5D17229910D700EB30E6 /* pak2.pak in Resources */,
+				720E0ABD22990FFB00EB30E6 /* pak0.pak in Resources */,
 				A132345A2209FFE200884138 /* Quake2mp1LaunchScreen.storyboard in Resources */,
+				720E6A072299119000EB30E6 /* pak3.pkz in Resources */,
 				A1C1233E2203B37600EAD9CB /* Main.storyboard in Resources */,
-				A1C123402203B37600EAD9CB /* music in Resources */,
+				720E52872299101000EB30E6 /* pak1.pak in Resources */,
+				720E5D23229910D700EB30E6 /* common.menu in Resources */,
 				A1C123412203B37600EAD9CB /* dpquake.ttf in Resources */,
 				A1C123422203B37600EAD9CB /* Quake2-iOS.xcassets in Resources */,
 			);
@@ -3227,11 +3293,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				720E5D1F229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E52832299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1C1241C2203FE2600EAD9CB /* baseq2 in Resources */,
-				A1C124FD2203FF5E00EAD9CB /* rogue in Resources */,
+				720E5D19229910D700EB30E6 /* pak2.pak in Resources */,
+				720E0ABF22990FFB00EB30E6 /* pak0.pak in Resources */,
 				A132345B2209FFE500884138 /* Quake2mp2LaunchScreen.storyboard in Resources */,
+				720E6A092299119000EB30E6 /* pak3.pkz in Resources */,
 				A1C1241E2203FE2600EAD9CB /* Main.storyboard in Resources */,
-				A1C1241F2203FE2600EAD9CB /* music in Resources */,
+				720E52892299101000EB30E6 /* pak1.pak in Resources */,
+				720E5D25229910D700EB30E6 /* common.menu in Resources */,
 				A1C124202203FE2600EAD9CB /* dpquake.ttf in Resources */,
 				A1C124212203FE2600EAD9CB /* Quake2-iOS.xcassets in Resources */,
 			);
@@ -3241,12 +3312,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1C1259B2204FA3300EAD9CB /* music in Resources */,
 				A1C1259C2204FA3300EAD9CB /* Main.storyboard in Resources */,
+				720E0ABE22990FFB00EB30E6 /* pak0.pak in Resources */,
 				A1C1259D2204FA3300EAD9CB /* baseq2 in Resources */,
+				720E5D24229910D700EB30E6 /* common.menu in Resources */,
+				720E52822299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1C1259E2204FA3300EAD9CB /* dpquake.ttf in Resources */,
-				A1C125A52204FA5700EAD9CB /* xatrix in Resources */,
+				720E5D1E229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E5D18229910D700EB30E6 /* pak2.pak in Resources */,
 				A1C1259F2204FA3300EAD9CB /* Quake2-tvOS.xcassets in Resources */,
+				720E6A082299119000EB30E6 /* pak3.pkz in Resources */,
+				720E52882299101000EB30E6 /* pak1.pak in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3254,12 +3330,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1C126702204FE1400EAD9CB /* music in Resources */,
-				A1C1267B2205031F00EAD9CB /* rogue in Resources */,
 				A1C126712204FE1400EAD9CB /* Main.storyboard in Resources */,
+				720E0AC022990FFB00EB30E6 /* pak0.pak in Resources */,
 				A1C126722204FE1400EAD9CB /* baseq2 in Resources */,
+				720E5D26229910D700EB30E6 /* common.menu in Resources */,
+				720E52842299100F00EB30E6 /* q2pro.menu in Resources */,
 				A1C126732204FE1400EAD9CB /* dpquake.ttf in Resources */,
+				720E5D20229910D700EB30E6 /* q2config.cfg in Resources */,
+				720E5D1A229910D700EB30E6 /* pak2.pak in Resources */,
 				A1C126752204FE1400EAD9CB /* Quake2-tvOS.xcassets in Resources */,
+				720E6A0A2299119000EB30E6 /* pak3.pkz in Resources */,
+				720E528A2299101000EB30E6 /* pak1.pak in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4183,7 +4264,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = 9UY8SFDNQ8;
+				DEVELOPMENT_TEAM = 6XMY278932;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = NO;
@@ -4199,7 +4280,7 @@
 				INFOPLIST_FILE = "Quake2-iOS/Quake2-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.quake2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.agilepq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Quake2-iOS/bridging.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -4227,7 +4308,7 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = 9UY8SFDNQ8;
+				DEVELOPMENT_TEAM = 6XMY278932;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = NO;
@@ -4242,7 +4323,7 @@
 				INFOPLIST_FILE = "Quake2-iOS/Quake2-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.quake2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.agilepq;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Quake2-iOS/bridging.h";
 				SWIFT_VERSION = 5.0;
